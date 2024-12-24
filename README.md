@@ -40,3 +40,8 @@ The game consists of multiple levels, each teaching a specific Git command or co
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/learn-git-game.git
+
+2. cd learn-git-game
+3. g++ -std=c++17 -o learn_git learn_git_game.cpp
+4. ./learn_git
+
