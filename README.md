@@ -39,7 +39,7 @@ The game consists of multiple levels, each teaching a specific Git command or co
 ### Steps to Compile and Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/learn-git-game.git
+   git clone https://github.com/your-username/learn_git.git
 
 2. cd learn-git-game
 3. g++ -std=c++17 -o learn_git learn_git_game.cpp
